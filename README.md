@@ -1,25 +1,34 @@
-# SubCodx - Editor de Legendas Inteligente
-Criado Por: Tavora-kun
+🎥 SubCodx - Intelligent Subtitle Editor
+Created by: Tavora-kun
 
-Um editor de legendas open-source para Windows com OCR, transcrição por IA, ferramentas de sincronização e muito mais. Construído com Python e PyQt6.
+An open-source subtitle editor for Windows featuring OCR, AI transcription, synchronization tools, and much more. Built using Python and PyQt6.
 
-## Funcionalidades Principais
+✨ Key Features
+Complete Editing Suite: Edit text, start/end times, and subtitle styles (ASS).
 
-* **Edição Completa:** Edite textos, tempos de início/fim e estilos de legenda (ASS).
-* **Transcrição Automática:** Use a tecnologia do OpenAI Whisper para transcrever o áudio do vídeo e gerar legendas automaticamente.
-* **Extração por OCR:** Extraia legendas diretamente de vídeos que as possuem "queimadas" na imagem.
-* **Tradução Integrada:** Traduza suas legendas para dezenas de idiomas com um clique.
-* **Encode Flexível:**
-    * **Hardsub:** "Queime" as legendas diretamente no vídeo.
-    * **Softsub:** Adicione as legendas como uma faixa separada em containers MKV (muxing).
-* **Ferramentas de Sincronização:** Ajuste os tempos de todas as legendas ou apenas das selecionadas.
-* **Upscale com IA:** Melhore a qualidade de vídeos de baixa resolução usando Real-ESRGAN.
+Automatic Transcription: Use OpenAI Whisper technology to transcribe video audio and automatically generate subtitles.
 
-## Como Usar (Versão Pré-compilada)
+OCR Extraction: Extract subtitles directly from videos where they are "hardsubbed" (burnt into the image).
 
-1.  Vá para a seção **[Releases](https://github.com/Tavora-Lab/SubCodX)** aqui no GitHub.
-2.  Baixe o arquivo `.zip` da versão mais recente.
-3.  Extraia todos os arquivos para uma pasta de sua preferência.
-4.  Execute o `SubCodx.exe` para iniciar o programa.
+Integrated Translation: Translate your subtitles into dozens of languages with a single click.
 
-**Importante:** Mantenha todos os arquivos e pastas extraídos juntos para que o programa funcione corretamente.
+Flexible Encoding:
+
+Hardsub: Burn the subtitles directly onto the video.
+
+Softsub: Add subtitles as a separate track within MKV containers (muxing).
+
+Synchronization Tools: Adjust the timings for all subtitles or only the selected ones.
+
+AI Upscaling: Improve the quality of low-resolution videos using Real-ESRGAN.
+
+💻 How to Use (Pre-compiled Version)
+Go to the Releases section here on GitHub.
+
+Download the .zip file for the latest version.
+
+Extract all files to a folder of your choice.
+
+Run SubCodx.exe to start the program.
+
+⚠️ Important: Keep all extracted files and folders together for the program to function correctly.
