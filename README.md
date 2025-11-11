@@ -23,3 +23,8 @@ An open-source subtitle editor for Windows with OCR, AI transcription, synchroni
 4. Run `SubCodx.exe` to start the program.
 
 **Important:** Keep all extracted files and folders together for the program to function correctly.
+
+<img width="1365" height="721" alt="subcodex 2" src="https://github.com/user-attachments/assets/e228d17f-8b23-47bc-8fd3-4c94d56fbe37" />
+<img width="1365" height="719" alt="subcodex 1" src="https://github.com/user-attachments/assets/c85ad3ea-ce45-4bdf-bc97-38928b65a7d2" />
+
+
