@@ -1,34 +1,25 @@
-🎥 SubCodx - Intelligent Subtitle Editor
-Created by: Tavora-kun
+# SubCodx - Intelligent Subtitle Editor
+Created By: Tavora-kun
 
-An open-source subtitle editor for Windows featuring OCR, AI transcription, synchronization tools, and much more. Built using Python and PyQt6.
+An open-source subtitle editor for Windows with OCR, AI transcription, synchronization tools, and much more. Built with Python and PyQt6.
 
-✨ Key Features
-Complete Editing Suite: Edit text, start/end times, and subtitle styles (ASS).
+## Main Features
 
-Automatic Transcription: Use OpenAI Whisper technology to transcribe video audio and automatically generate subtitles.
+* **Complete Editing:** Edit texts, start/end times and subtitle styles (ASS).
+* **Automatic Transcription:** Use OpenAI Whisper technology to transcribe the video audio and automatically generate subtitles.
+* **OCR Extraction:** Extract subtitles directly from videos that have them "burnt" into the image.
+* **Integrated Translation:** Translate your subtitles into dozens of languages with one click.
+* **Flexible Encoding:**
+    * **Hardsub:** "Burn" the subtitles directly into the video.
+    * **Softsub:** Add the subtitles as a separate track in MKV containers (muxing).
+* **Synchronization Tools:** Adjust the timings of all subtitles or only the selected ones.
+* **AI Upscale:** Improve the quality of low-resolution videos using Real-ESRGAN.
 
-OCR Extraction: Extract subtitles directly from videos where they are "hardsubbed" (burnt into the image).
+## How to Use (Pre-compiled Version)
 
-Integrated Translation: Translate your subtitles into dozens of languages with a single click.
+1. Go to the **[Releases](https://github.com/Tavora-Lab/SubCodX)** section here on GitHub.
+2. Download the latest version's `.zip` file.
+3. Extract all files to a folder of your preference.
+4. Run `SubCodx.exe` to start the program.
 
-Flexible Encoding:
-
-Hardsub: Burn the subtitles directly onto the video.
-
-Softsub: Add subtitles as a separate track within MKV containers (muxing).
-
-Synchronization Tools: Adjust the timings for all subtitles or only the selected ones.
-
-AI Upscaling: Improve the quality of low-resolution videos using Real-ESRGAN.
-
-💻 How to Use (Pre-compiled Version)
-Go to the Releases section here on GitHub.
-
-Download the .zip file for the latest version.
-
-Extract all files to a folder of your choice.
-
-Run SubCodx.exe to start the program.
-
-⚠️ Important: Keep all extracted files and folders together for the program to function correctly.
+**Important:** Keep all extracted files and folders together for the program to function correctly.
