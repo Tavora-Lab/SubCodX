@@ -1,8 +1,6 @@
 # SubCodx - Intelligent Subtitle Editor
-Created By: Tavora-kun
 
 An open-source subtitle editor for Windows with OCR, AI transcription, synchronization tools, and much more. Built with Python and PyQt6.
-
 
 IMPORTANT: Open the Settings.ini file using Notepad on your computer and edit the {PATH TO THE FILE} section with the correct path on your computer.
 
